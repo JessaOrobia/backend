@@ -25,7 +25,7 @@ SECRET_KEY = 'j7#l4$vgbb0v=!*t&nlz^ylivcte=1#-$a)wdlgy0_4_%h9^ij'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://tasks-backend-6g9o.onrender.com']
+ALLOWED_HOSTS = ['backend-0x3u.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
